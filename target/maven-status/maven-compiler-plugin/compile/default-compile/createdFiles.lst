@@ -1,0 +1,4 @@
+com\entreprise\report\service\ReportService.class
+com\entreprise\report\model\Color.class
+com\entreprise\report\exception\ReportException.class
+com\entreprise\report\model\Reference.class

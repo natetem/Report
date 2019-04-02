@@ -1,0 +1,5 @@
+package com.entreprise.report.model;
+
+public enum Color {
+    R, G, B
+}
